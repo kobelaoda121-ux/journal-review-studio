@@ -1,0 +1,4 @@
+interface:
+  display_name: "Journal Review Studio"
+  short_description: "Review manuscripts and figures against a target journal"
+  default_prompt: "Use $journal-review-studio to build a target journal profile from my reference papers and review my manuscript against it."
